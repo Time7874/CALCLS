@@ -1,7 +1,9 @@
 # CALCLS
 
 The code starts with a tag.
- This tells the browser that this document is encoded in UTF-8, which is an 8-bit character encoding system.
+
+
+This tells the browser that this document is encoded in UTF-8, which is an 8-bit character encoding system.
  The next line of code starts with a
  This tells the browser that IE should use its own rendering engine for compatibility purposes.
  Next comes a meta name="viewport" content="width=device-width, initial-scale=1.0".
